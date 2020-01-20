@@ -14,3 +14,10 @@ npm set init.autor.url "https://github.com/bjtj/nodejs-hello"
 npm login
 npm publish
 ```
+
+# Usage #
+
+```
+$ yarn
+$ yarn test
+```
