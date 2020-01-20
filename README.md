@@ -21,3 +21,13 @@ npm publish
 $ yarn
 $ yarn test
 ```
+
+
+# Updating an existing package README file #
+
+https://docs.npmjs.com/about-package-readme-files#updating-an-existing-package-readme-file
+
+ ```
+$ npm version patch
+$ npm publish
+ ```
